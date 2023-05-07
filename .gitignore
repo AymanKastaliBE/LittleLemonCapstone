@@ -1,0 +1,6 @@
+
+*.pyc
+__pycahe__
+*.log
+migrations
+Pipfile.lock
